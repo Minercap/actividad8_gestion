@@ -7,7 +7,7 @@ Este repositorio contiene la implementación práctica y teórica correspondient
 ## 👥 Integrantes del Equipo (Equipo #X)
 
 * **Nombre y Apellido** - Agustín Nicolás López
-* **Nombre y Apellido** - Rol / Aportes
+* **Nombre y Apellido** - Miguel José Caputo
 * **Nombre y Apellido** - Rol / Aportes
 * **Nombre y Apellido** - Rol / Aportes
 
